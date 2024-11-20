@@ -29,7 +29,7 @@
 <h2>Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/c921e564-82a6-4dcd-bccf-6989a2c9dd60/linked_in_profile)
-- [CompTIA ITF+](https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.credly.com/badges/3a0fbfd4-56ab-41bf-88f7-a769a6b7f3bd/linked_in_profile))
+- [CompTIA ITF+](https://www.credly.com/badges/3a0fbfd4-56ab-41bf-88f7-a769a6b7f3bd/linked_in_profile)
 - [Computer and Network Service Technician Certificate- Laguardia Community College](https://www.linkedin.com/in/joseaponte-it/details/education/)
 <h2>🤳Connect with me:</h2>
 
