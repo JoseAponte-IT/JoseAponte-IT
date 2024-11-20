@@ -26,11 +26,11 @@
 - <b>VPNs</b>
   - [Setup and Usage of ProtonVPN] ()
 
-<h2>📺YouTube Videos</h2>
+<h2>Certifications</h2>
 
-- [Deploying Azure and Configuring](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [CompTIA A+](https://www.credly.com/badges/c921e564-82a6-4dcd-bccf-6989a2c9dd60/linked_in_profile)
+- [CompTIA ITF+](https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.credly.com/badges/3a0fbfd4-56ab-41bf-88f7-a769a6b7f3bd/linked_in_profile))
+- [Computer and Network Service Technician Certificate- Laguardia Community College](https://www.linkedin.com/in/joseaponte-it/details/education/)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
