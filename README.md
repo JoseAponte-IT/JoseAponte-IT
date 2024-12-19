@@ -2,9 +2,9 @@
 
 <h2>👨‍💻Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
   - [Creating Resources in the Cloud](https://github.com/JoseAponte-IT/Azure-Creating-Resources-on-the-Cloud-/tree/main)
-  - [Monitoring Network Traffic with Azure VMs](https://github.com/JoseAponte-IT/Azure-Network-Protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoseAponte-IT/Azure-Network-Protocols)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure VMs]()
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
