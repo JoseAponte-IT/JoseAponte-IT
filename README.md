@@ -15,8 +15,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JoseAponte-IT/osTicket-Prerequisties-and-Installation?tab=readme-ov-file)
   - [osTicket: Post-Installation Configuration](https://github.com/JoseAponte-IT/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>DNS</b>
-  -[M]()
 - <b>VPN</b>
   - [VPN: Setting up VPN]()
 - <b>PowerShell</b>
@@ -37,4 +35,4 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/joseaponte-it
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]:  https://www.youtube.com/@JPinnacleIT
