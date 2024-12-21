@@ -2,6 +2,11 @@
 
 <h2>👨‍💻Information Technology Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/JoseAponte-IT/osTicket-Prerequisties-and-Installation?tab=readme-ov-file)
+  - [osTicket: Post-Installation Configuration](https://github.com/JoseAponte-IT/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JoseAponte-IT/osTicket-Ticket-Lifecycle-Examples))
+
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
   - [Creating Resources in the Cloud](https://github.com/JoseAponte-IT/Azure-Creating-Resources-on-the-Cloud-/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoseAponte-IT/Azure-Network-Protocols)
@@ -11,10 +16,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network File Shares and Permissions]()
   -  [DNS Record Activity]
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JoseAponte-IT/osTicket-Prerequisties-and-Installation?tab=readme-ov-file)
-  - [osTicket: Post-Installation Configuration](https://github.com/JoseAponte-IT/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>VPN</b>
   - [VPN: Setting up VPN]()
 - <b>PowerShell</b>
