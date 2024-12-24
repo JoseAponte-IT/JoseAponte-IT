@@ -17,7 +17,7 @@
   - [Network File Shares and Permissions]()
   -  [DNS Record Activity]
 - <b>VPN</b>
-  - [VPN: Setting up VPN](https://github.com/JoseAponte-IT/SETTING-UP-VPN/blob/main/README.md)
+  - [VPN: Setting up VPN](https://github.com/JoseAponte-IT/SETTING-UP-VPN)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
