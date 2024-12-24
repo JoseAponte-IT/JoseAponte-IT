@@ -12,9 +12,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoseAponte-IT/Azure-Network-Protocols)
   - [Basic DNS Configuration & Testing]()
 - <b>Active Directory</b>
-  - [Installing and Configuring Active Directory within Azure VMs]()
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network File Shares and Permissions]()
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/JoseAponte-IT/Installing-and-configuring-Active-Directory-within-Azure-VMs)
+  - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  -[Active Directory: ]
+  -  [Network File Shares and Permissions]()
   -  [DNS Record Activity]
 - <b>VPN</b>
   - [VPN: Setting up VPN](https://github.com/JoseAponte-IT/SETTING-UP-VPN)
