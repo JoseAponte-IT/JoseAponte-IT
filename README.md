@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JoseAponte-IT/osTicket-Prerequisties-and-Installation?tab=readme-ov-file)
   - [osTicket: Post-Installation Configuration](https://github.com/JoseAponte-IT/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JoseAponte-IT/osTicket-Ticket-Lifecycle-Examples))
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JoseAponte-IT/osTicket-Ticket-Lifecycle-Examples)
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
   - [Creating Resources in the Cloud](https://github.com/JoseAponte-IT/Azure-Creating-Resources-on-the-Cloud-/tree/main)
