@@ -14,7 +14,7 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/JoseAponte-IT/Installing-and-configuring-Active-Directory-within-Azure-VMs)
   - [Active Directory: Deploying Active Directory in Azure ](https://github.com/JoseAponte-IT/Deploying-Active-Directory-In-Azure)
-  -[Active Directory: Creating Users,Group Policy,and Managing Accounts in Azure ](https://github.com/JoseAponte-IT/Creating-users-Group-Policy-and-Managing-Accounts)
+  - [Active Directory: Creating Users,Group Policy,and Managing Accounts in Azure ](https://github.com/JoseAponte-IT/Creating-users-Group-Policy-and-Managing-Accounts)
   -  [Network File Shares and Permissions]()
 - <b>VPN</b>
   - [VPN: Setting up VPN](https://github.com/JoseAponte-IT/SETTING-UP-VPN)
