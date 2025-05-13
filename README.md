@@ -13,16 +13,14 @@
   - [Basic DNS Configuration & Testing]()
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/JoseAponte-IT/Installing-and-configuring-Active-Directory-within-Azure-VMs)
-  - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  -[Active Directory: ]
+  - [Active Directory: Deploying Active Directory in Azure ](https://github.com/JoseAponte-IT/Deploying-Active-Directory-In-Azure)
+  -[Active Directory: Creating Users,Group Policy,and Managing Accounts in Azure ](https://github.com/JoseAponte-IT/Creating-users-Group-Policy-and-Managing-Accounts)
   -  [Network File Shares and Permissions]()
-  -  [DNS Record Activity]
 - <b>VPN</b>
   - [VPN: Setting up VPN](https://github.com/JoseAponte-IT/SETTING-UP-VPN)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [JWipe (Disk Wiping Utility)]"(TBD)"
+  - [Active Directory Bulk User Creation]"(TBD)"
 
 
 <h2>Certifications</h2>
