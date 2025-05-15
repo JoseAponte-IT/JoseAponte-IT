@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JoseAponte-IT/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JoseAponte-IT/osTicket-Ticket-Lifecycle-Examples)
 
-- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
+- <b>Microsoft Azure (Networking / DNS Configuration)</b>
   - [Creating Resources in the Cloud](https://github.com/JoseAponte-IT/Azure-Creating-Resources-on-the-Cloud-/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoseAponte-IT/Azure-Network-Protocols)
   - [Basic DNS Configuration & Testing]()
